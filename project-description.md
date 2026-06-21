@@ -1,1 +1,1 @@
-Put your project description in markdown here. It will render under your project voting page. See as reference [Platanus Hack 26: Buenos Aires voting page](https://hack.platan.us/26-ar/vote).
+Una novela visual interactiva y un simulador educativo diseñado para enseñar ingeniería ágil en un entorno corporativo de alta presión. Como desarrollador junior de IA recién contratado en Bananocorp, los jugadores deben lidiar con las intrigas de la oficina, resolver crisis técnicas y desarrollar funciones de IA a lo largo de una campaña de 5 días.
